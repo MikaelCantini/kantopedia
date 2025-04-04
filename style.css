@@ -8,10 +8,16 @@ li {
     padding: 10px;
     padding-left: 0px;
 }
-li :hover{
-    background-color: #cdcdcd;
+ 
+h3{
+    text-align: center;
+    font-size: 30px;
 }
 a { color:blue; text-decoration: none;}
+
+.ref :hover{
+    background-color: #cdcdcd;
+}
 .bar {
     background-color: #f9f9fb;
     padding:15px;
