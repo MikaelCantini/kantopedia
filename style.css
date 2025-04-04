@@ -33,6 +33,12 @@ a { color:blue; text-decoration: none;}
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
+.kantotitulo {
+    text-align: center;
+}
+.mapakanto {
+    width: 350px;
+}
 figure {
     text-align: center;
 }
