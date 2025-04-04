@@ -34,6 +34,7 @@ a { color:blue; text-decoration: none;}
     grid-template-columns: minmax(0,15rem) minmax(0,2.5fr) minmax(0,15rem);
     padding-left: 1rem;
     padding-right: 1rem;
+    background-color: rgba(255, 228, 196, 0.247);
 }
 .footer {
     min-height: 100px;
@@ -47,9 +48,11 @@ a { color:blue; text-decoration: none;}
 }
 .sidebar {
     border-right: solid 1px #cdcdcd;
+    
 }
 .kantotitulo {
     text-align: center;
+    
 }
 .mapakanto {
     width: 350px;
